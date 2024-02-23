@@ -1,0 +1,12 @@
+spk_0: Good Morning, doctor. May I come in?
+spk_1: Good Morning. How are you? You do look quite pale this morning.
+spk_0: Yes, doctor. I’ve not been feeling well for the past few days. I’ve been having a stomach ache for a few days and feeling a bit dizzy since yesterday.
+spk_1: Okay, let me check. (applies pressure on the stomach and checks for pain) Does it hurt here?
+spk_0: Yes, doctor, the pain there is the sharpest.
+spk_1: Well, you are suffering from a stomach infection, that’s the reason you are having a stomach ache and also getting dizzy. Did you change your diet recently or have something unhealthy?
+spk_0: Actually, I went to a fair last week and ate food from the stalls there.
+spk_1: Okay, so you are probably suffering from food poisoning. Since the food stalls in fairs are quite unhygienic, there’s a high chance those uncovered food might have caused food poisoning.
+spk_0: I think I will never eat from any unhygienic place in the future.
+spk_1: That’s good. I’m prescribing some medicines, have them for one week and come back for a checkup next week. And please try to avoid spicy and fried foods for now.
+spk_0: Okay, doctor, thank you.
+spk_1: Welcome.
